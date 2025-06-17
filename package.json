@@ -1,0 +1,20 @@
+{
+  "name": "runtrack-nodejs",
+  "version": "1.0.0",
+  "description": "runtrack nodejs",
+  "homepage": "https://github.com/jorge-santoss/Runtrack-nodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/jorge-santoss/Runtrack-nodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-santoss/Runtrack-nodeJS.git"
+  },
+  "license": "ISC",
+  "author": "Jorge Santos",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
