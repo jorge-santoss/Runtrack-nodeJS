@@ -15,6 +15,10 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon jour1/job14/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
   }
 }
